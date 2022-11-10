@@ -10,19 +10,19 @@ No special requirements.
 
 ## Screenshots
 
-![index page screenshot](Develop/assets/images/screenshot_index.jpeg)
+![index page screenshot](assets/images/screenshot_index.jpeg)
 [Index Page Screenshot]
 
-![index page screenshot](Develop/assets/images/screenshot_html_comparison_01.png)
+![index page screenshot](assets/images/screenshot_html_comparison_01.png)
 [Refactoring HTML codes before (left) & after (right) part 1]
 
-![index page screenshot](Develop/assets/images/screenshot_html_comparison_02.png)
+![index page screenshot](assets/images/screenshot_html_comparison_02.png)
 [Refactoring HTML codes before (left) & after (right) part 2]
 
-![index page screenshot](Develop/assets/images/screenshot_css_comparison_01.png)
+![index page screenshot](assets/images/screenshot_css_comparison_01.png)
 [Refactoring CSS codes before (left) & after (right) part 1]
 
-![index page screenshot](Develop/assets/images/screenshot_css_comparison_02.png)
+![index page screenshot](assets/images/screenshot_css_comparison_02.png)
 [Refactoring CSS codes before (left) & after (right) part 2]
 
 ## Credits
