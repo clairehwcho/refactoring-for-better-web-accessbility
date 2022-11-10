@@ -1,8 +1,8 @@
-# Refactoring for Better Web Accessbility
+# Refactoring for Better Web Accessibility
 
 ## Description
 
-The goal of this project is to refactor the existing code of a marketing agency's website to imporve its web accessbility so that not only people with disabilities can access the website more easily but also the website can be optimized better for search engines.
+The goal of this project is to refactor the existing code of a marketing agency's website to imporve its web accessibility so that not only people with disabilities can access the website more easily but also the website can be optimized better for search engines.
 
 ## Installation
 
